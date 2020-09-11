@@ -19,3 +19,4 @@
     sudo chmod 644 .htaccess    
     ```
 9. Installer WordPress :tada:
+10. Ajout d'un theme ou d'un plugin (`composer require wpackagist-plugin/nom-du-plugin` ou `composer require wpackagist-theme/nom-du-theme`)
